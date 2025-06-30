@@ -1,23 +1,30 @@
 {
   "name": "zakbot",
   "version": "1.0.0",
+  "description": "ZAKTOMATE AI Customer Service Backend for website display.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "dev": "node --watch index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "AI",
+    "Customer Service",
+    "Gemini",
+    "MongoDB",
+    "Node.js",
+    "Express"
+  ],
+  "author": "Your Name/Zakbot Team",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "axios": "^1.10.0",
-    "body-parser": "^2.2.0",
+    "body-parser": "^1.20.2",
     "cors": "^2.8.5",
-    "dotenv": "^17.0.0",
-    "express": "^5.1.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
     "gpt-3-encoder": "^1.1.4",
-    "mongodb": "^6.17.0",
-    "uuid": "^11.1.0"
+    "mongodb": "^6.8.0",
+    "uuid": "^9.0.1"
   }
 }
