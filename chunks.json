@@ -1,0 +1,82 @@
+[
+  {
+    "chunk_id": "e9288b83-19db-4796-8035-7fe346e33247",
+    "text": "ZAKTOMATE - Your AI Partner, Not Just a Tool.. Brand Quote: \"We don’t just give you tools. We become your AI team.\"",
+    "metadata": {
+      "source_id": "zaktomate",
+      "docType": "company_overview"
+    }
+  },
+  {
+    "chunk_id": "4d0f784a-59c3-4dc0-a458-184a2a0765e6",
+    "text": "Shared Features across all ZAKTOMATE services include: AI Consultation & Business Audit, Zakbot Setup + Smart Optimization, Workflow Automation & Integration, AI Analytics Dashboards, On-Demand Expert Support.",
+    "metadata": {
+      "source_id": "zaktomate",
+      "docType": "shared_features"
+    }
+  },
+  {
+    "chunk_id": "28b846d6-29ba-4f16-99e0-3d1b48d133ed",
+    "text": "Zakbot (Chatbot): A minimal, AI-powered chatbot for interacting with users via text-based conversation..",
+    "metadata": {
+      "source_id": "zaktomate",
+      "docType": "component_chatbot"
+    }
+  },
+  {
+    "chunk_id": "4e84f8f9-1d50-4b18-ab16-667a170c017e",
+    "text": "Zakbot details: Endpoint is https://final-chatbot-982a.onrender.com, UI Theme is Dark, Accent Color is Cyan. It features: Text-only interface, User/Zakbot message alignment, Responsive design, Minimalist layout.",
+    "metadata": {
+      "source_id": "zaktomate",
+      "docType": "zakbot_details"
+    }
+  },
+  {
+    "chunk_id": "c2dab0a0-6634-4437-a78f-3743916ea754",
+    "text": "Zakdeck (Content Generator): AI-powered slide and content engine for generating presentations and marketing material..",
+    "metadata": {
+      "source_id": "zaktomate",
+      "docType": "component_content generator"
+    }
+  },
+  {
+    "chunk_id": "2c9ccbdc-cf6d-4518-aa42-493375ea2ba3",
+    "text": "Zakdeck offers the following plans for content generation: 10 presentations/month, 30 presentations/month, Unlimited presentations.",
+    "metadata": {
+      "source_id": "zaktomate",
+      "docType": "zakdeck_plans"
+    }
+  },
+  {
+    "chunk_id": "3384d2c7-d7cf-4e6e-9cda-388a62311570",
+    "text": "OpsMate (Service Plans): Tiered service model offering Zakbot, Zakdeck, automation, and analytics tools..",
+    "metadata": {
+      "source_id": "zaktomate",
+      "docType": "component_service plans"
+    }
+  },
+  {
+    "chunk_id": "87b98e7f-96b9-4beb-9a3d-b2aa5145fce7",
+    "text": "OpsMate Ignite Track: Regular price is BDT 5,000 per month. Introductory price for the first month is BDT 2,500 (1st month). Features include: Zakdeck: 10 Presentations/month; Zakbot Lite: 1,500 messages/month; Email Support; AI Automation Suggestions.",
+    "metadata": {
+      "source_id": "zaktomate",
+      "docType": "opsmate_track_ignite_track"
+    }
+  },
+  {
+    "chunk_id": "5c50ac67-ceb3-4e53-8ba8-7dfcf09aa8ff",
+    "text": "OpsMate Accelerate Track: Regular price is BDT 10,000 per month. Introductory price for the first month is BDT 5,000 (1st month). Features include: Zakdeck: 30 Presentations/month; Zakbot Pro: 5,500 messages/month; Custom AI Automation (1/month); Email & Call Support.",
+    "metadata": {
+      "source_id": "zaktomate",
+      "docType": "opsmate_track_accelerate_track"
+    }
+  },
+  {
+    "chunk_id": "6e134603-ddc1-4588-a474-1460fada5136",
+    "text": "OpsMate Transform Track: Regular price is BDT 15,000 per month. Introductory price for the first month is BDT 7,500 (1st month). Features include: Zakdeck: Unlimited Presentations; Zakbot Advanced: 24/7 support & insights; Custom Workflows (As per demand); Priority Support.",
+    "metadata": {
+      "source_id": "zaktomate",
+      "docType": "opsmate_track_transform_track"
+    }
+  }
+]

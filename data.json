@@ -1,0 +1,84 @@
+{
+  "company": "ZAKTOMATE",
+  "tagline": "Your AI Partner, Not Just a Tool.",
+  "components": [
+    {
+      "name": "Zakbot",
+      "type": "Chatbot",
+      "description": "A minimal, AI-powered chatbot for interacting with users via text-based conversation.",
+      "endpoint": "https://final-chatbot-982a.onrender.com",
+      "ui_theme": "Dark",
+      "accent_color": "Cyan",
+      "features": [
+        "Text-only interface",
+        "User/Zakbot message alignment",
+        "Responsive design",
+        "Minimalist layout"
+      ]
+    },
+    {
+      "name": "Zakdeck",
+      "type": "Content Generator",
+      "description": "AI-powered slide and content engine for generating presentations and marketing material.",
+      "plans": [
+        "10 presentations/month",
+        "30 presentations/month",
+        "Unlimited presentations"
+      ]
+    },
+    {
+      "name": "OpsMate",
+      "type": "Service Plans",
+      "description": "Tiered service model offering Zakbot, Zakdeck, automation, and analytics tools.",
+      "tracks": [
+        {
+          "name": "Ignite Track",
+          "price_per_month": {
+            "regular": "BDT 5,000",
+            "introductory": "BDT 2,500 (1st month)"
+          },
+          "features": [
+            "Zakdeck: 10 Presentations/month",
+            "Zakbot Lite: 1,500 messages/month",
+            "Email Support",
+            "AI Automation Suggestions"
+          ]
+        },
+        {
+          "name": "Accelerate Track",
+          "price_per_month": {
+            "regular": "BDT 10,000",
+            "introductory": "BDT 5,000 (1st month)"
+          },
+          "features": [
+            "Zakdeck: 30 Presentations/month",
+            "Zakbot Pro: 5,500 messages/month",
+            "Custom AI Automation (1/month)",
+            "Email & Call Support"
+          ]
+        },
+        {
+          "name": "Transform Track",
+          "price_per_month": {
+            "regular": "BDT 15,000",
+            "introductory": "BDT 7,500 (1st month)"
+          },
+          "features": [
+            "Zakdeck: Unlimited Presentations",
+            "Zakbot Advanced: 24/7 support & insights",
+            "Custom Workflows (As per demand)",
+            "Priority Support"
+          ]
+        }
+      ]
+    }
+  ],
+  "shared_features": [
+    "AI Consultation & Business Audit",
+    "Zakbot Setup + Smart Optimization",
+    "Workflow Automation & Integration",
+    "AI Analytics Dashboards",
+    "On-Demand Expert Support"
+  ],
+  "brand_quote": "We don’t just give you tools. We become your AI team."
+}
